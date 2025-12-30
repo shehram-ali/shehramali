@@ -1,0 +1,274 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Shehram Ali",
+    "heading": "Hey! I'm Shehram",
+    "typingText": [
+      "I'm a React Native Developer",
+      1500,
+      "I'm a Mobile App Developer",
+      1500,
+      "I Build iOS & Android Apps",
+      1500
+    ],
+    "description": "Passionate React Native Mobile App Developer specializing in building high-performance cross-platform mobile applications for iOS and Android. I create seamless, user-friendly mobile experiences with clean code and modern architecture. Currently developing innovative mobile solutions at Inventorz, Dubai.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/shehramali-developer/"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/shehram-ali"
+    },
+    {
+      "icon": "fa-brands:whatsapp",
+      "iconBgClass": "whatsapp",
+      "href": "https://wa.me/923068561646"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.png",
+      "alt": "Inventorz"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "T-Marketing"
+    },
+    {
+      "src": "/images/brand-1.png",
+      "alt": "Ufone"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "UMT"
+    },
+    {
+      "src": "/images/brand-1.png",
+      "alt": "Huawei"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "CORVIT"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "React Native"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Firebase"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Me",
+    "title": "REACT NATIVE DEVELOPER FOR <span>iOS & ANDROID</span> APPLICATIONS",
+    "description": "I'm a dedicated Computer Science graduate from the University of Management and Technology with a CGPA of 3.19. Specializing in React Native mobile app development, I build cross-platform applications for iOS and Android that deliver native-like performance and exceptional user experiences. My expertise includes Redux state management, Firebase integration, real-time data synchronization, secure payment gateways, and RESTful API integration. From trading platforms to social media apps and digital wallets, I craft scalable mobile solutions with clean architecture and attention to detail.",
+    "funfacts": [
+      {
+        "title": "Mobile Apps Built",
+        "number": 25
+      },
+      {
+        "title": "Years Experience",
+        "number": 3
+      },
+      {
+        "title": "Certifications",
+        "number": 6
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Portfolio",
+      "title": "MOBILE APPS I'VE BUILT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.png",
+        "title": "SAM - Onboarding - Driver Management App",
+        "subTitle": "React Native, Redux, Firebase, Push Notifications",
+        "details": {
+          "title": "SAM - Comprehensive Driver Management System",
+          "description": "Developed a complete driver management application for managing driver operations, schedules, and documentation. The app provides a centralized platform for drivers and fleet managers to handle all aspects of driver employment and daily operations efficiently.<br><br>Key features include real-time driver schedule management with shift assignments, intelligent notification system for shift reminders and updates, comprehensive document management for driver licenses, certifications, and employment records, driver status tracking (active, on-break, off-duty), attendance and timesheet logging, route assignment and tracking, performance metrics dashboard, and secure document upload with cloud storage integration. The app uses Firebase for real-time data synchronization and push notifications to keep drivers informed instantly.",
+          "type": "Mobile Application",
+          "langages": "React Native, JavaScript, Redux, Firebase",
+          "platform": "iOS & Android",
+          "country": "UK",
+          "url": "https://play.google.com/store/apps/details?id=com.samonboard"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.png",
+        "title": "Live Aware - Social Media App",
+        "subTitle": "React Native, Firebase, FCM",
+        "details": {
+          "title": "Live Aware - Social Media Platform",
+          "description": "Built a feature-rich social media platform with comprehensive user profiles, posts, and real-time interactions including likes, comments, and shares. Integrated Firebase for seamless authentication and real-time messaging capabilities.<br><br>Implemented OAuth and Firebase authentication for secure profile management, developed dynamic post creation and feed functionality with photo/video sharing, created a follow system for user connections based on interests, and optimized performance through lazy loading and pagination for handling large datasets efficiently.",
+          "type": "Mobile Application",
+          "langages": "React Native, Firebase, JavaScript",
+          "platform": "iOS & Android",
+          "country": "International",
+          "url": "https://play.google.com/store/apps/details?id=com.liveaware&pcampaignid=web_share"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.png",
+        "title": "Inventorz - Education Platform",
+        "subTitle": "React Native, Firebase, Video Streaming, Real-time Chat",
+        "details": {
+          "title": "Inventorz - Interactive Learning Platform",
+          "description": "Created a comprehensive educational mobile application that revolutionizes student learning through interactive video lectures, project sharing, and peer collaboration. The app provides a complete learning ecosystem where students can access quality education, showcase their work, and engage with peers globally.<br><br>Key features include secure student authentication and profile management, extensive video lecture library with streaming capabilities and progress tracking, project upload functionality allowing students to share video presentations of their work, interactive challenge system where students can compete with peers on various topics, real-time chat and messaging powered by Firebase for student-to-student communication, push notifications for new lectures, challenges, and messages, video player with playback controls and quality adjustment, and project rating and feedback system to encourage peer learning. The app uses Firebase for real-time data synchronization, cloud storage for videos and projects, and implements smooth video streaming for optimal learning experience.",
+          "type": "Mobile Application",
+          "langages": "React Native, JavaScript, Firebase, Video.js",
+          "platform": "iOS & Android",
+          "country": "UAE",
+          "url": "Educational Platform"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.png",
+        "title": "NoblePay - Payment Gateway",
+        "subTitle": "React Native, Stripe, PayPal, 2FA",
+        "details": {
+          "title": "NoblePay - Digital Wallet & Payment Gateway",
+          "description": "Developed a secure mobile wallet and payment gateway application with comprehensive financial management features. The app ensures top-level security while providing smooth transaction processing.<br><br>Implemented wallet management features for storing digital money and performing transactions, integrated Stripe and PayPal APIs for secure payment processing, designed detailed transaction history screens with filtering capabilities, and implemented two-factor authentication (2FA) with PCI DSS compliant data encryption for maximum security.",
+          "type": "Mobile Application",
+          "langages": "React Native, Stripe API, PayPal API",
+          "platform": "iOS & Android",
+          "country": "International",
+          "url": "Enterprise Solution"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Vending Machine App",
+        "subTitle": "React Native, State Management",
+        "details": {
+          "title": "Vending Machine Mobile Application",
+          "description": "Developed an interactive vending machine application as part of my Mobile App Development coursework. The app simulates a real vending machine interface with product selection, payment processing, and inventory management.<br><br>Implemented comprehensive state management for tracking product inventory and user selections, created an intuitive UI mimicking real vending machine displays, developed payment processing logic with change calculation, and added features for product restocking and sales tracking. This project demonstrates strong understanding of React Native fundamentals and state management patterns.",
+          "type": "Mobile Application",
+          "langages": "React Native, JavaScript",
+          "platform": "iOS & Android",
+          "country": "Pakistan",
+          "url": "Academic Project"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Mobile App <span>Development</span> Services"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "React Native Development",
+        "subTitle": "Building high-performance cross-platform mobile apps for iOS and Android using React Native with Expo and bare workflow.",
+        "icon": "bi:phone",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "API & Backend Integration",
+        "subTitle": "Seamless integration of RESTful APIs, Firebase, real-time databases, and third-party services into mobile applications.",
+        "icon": "bi:plug",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Payment Gateway Integration",
+        "subTitle": "Secure implementation of payment systems including Stripe, PayPal, and other payment gateways with PCI DSS compliance.",
+        "icon": "bi:credit-card",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "UI/UX Implementation",
+        "subTitle": "Converting designs into pixel-perfect mobile interfaces with smooth animations, gestures, and native-like experiences.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "App Developer (React Native Expo)",
+        "company": "INVENTORZ | DUBAI",
+        "duration": "FEB 2025 - PRESENT",
+        "jobType": "Full-time Remote",
+        "companyTitle": "About Company",
+        "companyDescription": "Inventorz is a leading technology company based in Dubai, specializing in innovative mobile solutions. Working as part of a dynamic team, I contribute to designing and developing fully functional applications using React Native Expo framework. The role involves collaborating with cross-functional teams including designers, product managers, and backend developers to deliver high-quality mobile applications. I focus on implementing best practices, ensuring code quality, and creating seamless user experiences that meet international standards."
+      },
+      {
+        "designation": "App Developer (React Native)",
+        "company": "T-MARKETING | LAHORE",
+        "duration": "JULY 2024 - FEB 2025",
+        "jobType": "Full-time",
+        "companyTitle": "About Company",
+        "companyDescription": "T-Marketing is a progressive digital marketing and technology firm in Lahore. During my tenure, I worked extensively on mobile application development using React Native, creating fully functional and feature-rich applications. I collaborated closely with the design team to transform wireframes into responsive, interactive mobile interfaces. My responsibilities included implementing state management solutions, integrating RESTful APIs, ensuring cross-platform compatibility, and maintaining high code quality standards. This experience significantly enhanced my skills in React Native development and team collaboration."
+      },
+      {
+        "designation": "App Developer Internee",
+        "company": "T-MARKETING | LAHORE",
+        "duration": "APRIL 2024 - JULY 2024",
+        "jobType": "Internship (3 Months)",
+        "companyTitle": "About Company",
+        "companyDescription": "Started my professional journey at T-Marketing as an App Developer Intern, where I gained hands-on experience in web and mobile application development. During this internship, I worked on website design projects, learning industry best practices and professional development workflows. This foundational experience helped me understand the software development lifecycle, version control systems, and collaborative development practices. The internship provided valuable exposure to real-world projects and prepared me for full-time development roles."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "What <span>Clients</span> <br /> SAY ABOUT ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Shehram is an exceptional React Native developer who delivered our trading app ahead of schedule. His attention to detail and ability to implement complex features like real-time data streaming was impressive. The app performance is outstanding, and our users love the intuitive interface he created. Highly recommend him for any mobile development project!",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Ahmed Al-Mansoori",
+        "avatarCompany": "Inventorz, Dubai"
+      },
+      {
+        "reviewText": "Working with Shehram on our social media app was a great experience. He demonstrated strong technical skills in React Native and Firebase integration. His problem-solving approach and commitment to delivering quality code made him a valuable team member. The app's performance and user experience exceeded our expectations.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Fatima Khan",
+        "avatarCompany": "T-Marketing, Lahore"
+      },
+      {
+        "reviewText": "Shehram developed our real estate mobile application with impressive proficiency. His integration of Google Maps and implementation of the search functionality was seamless. He's professional, communicative, and always ready to go the extra mile to ensure project success. The final product was exactly what we envisioned!",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Muhammad Raza",
+        "avatarCompany": "Khridar Real Estate"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let's Build Your Mobile App",
+      "subTitle": "Available for React Native mobile app development projects. Let's discuss how I can help turn your mobile app idea into reality."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "shehramali249@gmail.com" },
+      { "title": "Call me", "tel": "+92-306-8561646" }
+    ]
+  }
+}
